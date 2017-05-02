@@ -1,0 +1,13 @@
+{
+    "multipart": [
+        {	"when":{"OR": [
+			{"north": "side", "south": "side"}
+		]}
+		"apply": { "model": "redstone_line" }
+		},
+		{	"when": { "OR" : [
+			{"east": "side", "west": "side"}
+		]}
+		"apply": { "model": "redstone_line", "y": 90 }
+	]
+}
