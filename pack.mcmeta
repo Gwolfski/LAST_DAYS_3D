@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 2,
+		"description": "3D addon for LASTDAYS/n Place on top"
+	},
+	"language":{
+		"en_LD":{
+			"name":"LAST DAYS",
+			"region":"LD",
+			"bidirectional":false
+		}
+	}
+}
